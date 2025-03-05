@@ -14,4 +14,8 @@ class CardOrganizerApp extends StatelessWidget {
       home: FolderListScreen(),
     );
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 26e74b83f8c33bada97601000850e1addc401a1f
